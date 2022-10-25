@@ -1,3 +1,15 @@
+/* Color Theme Swatches in Hex */
+.Blumhouse-Studio-Ident-1-hex { color: #025959; }
+.Blumhouse-Studio-Ident-2-hex { color: #014040; }
+.Blumhouse-Studio-Ident-3-hex { color: #F2E96B; }
+.Blumhouse-Studio-Ident-4-hex { color: #F28A2E; }
+.Blumhouse-Studio-Ident-5-hex { color: #732A10; }
+
 body{
-    background-color: burlywood;
+    background-color: #025959;
+    font-family: 'Titillium Web', sans-serif;
   }
+
+main{
+  background-color:#ffffff;
+}
